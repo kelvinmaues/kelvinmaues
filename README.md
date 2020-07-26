@@ -1,9 +1,6 @@
-<div align="center">
-  <img width="300px" src="./my_character.png">
-  <h1>
-    Hey, I'm Kelvin Maués 👋
-  </h1>
-</div>
+![Image of Yaktocat](./my_character.png)
+
+## Hey, I'm Kelvin Maués 👋
 
 <!-- # :man_technologist: Kelvin Gaia Maués -->
 
