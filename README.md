@@ -1,6 +1,9 @@
-![Image of Yaktocat](./my_character.png)
-
-## Hey, I'm Kelvin Maués 👋
+<div align="center">
+  <img width="400px" src="./images/my_character.png">
+  <h1>
+    
+  </h1>
+</div>
 
 <!-- # :man_technologist: Kelvin Gaia Maués -->
 
