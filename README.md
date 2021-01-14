@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400px" src="./images/my_character.png">
+  <img width="600px" src="./images/my_avatar.png">
   <h1>
     
   </h1>
